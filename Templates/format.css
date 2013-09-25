@@ -1,0 +1,16 @@
+/*
+@File: format.css
+@Author: Kara Wolter
+@Project: Lost/Found Dog Registry
+@Purpose: Contains style conventions used for different elements on the webpages
+*/
+
+td.linkbar{text-align:center; color:white; font-size:12pt; width:12.5%}
+td.title{text-align:center; color:Orange; font-size:30pt;}
+a.bar:link{color:White;}
+a.bar:visited{color:White;}
+a.bot:link{color:Black;}
+a.bot:visited{color:Black;}
+p.footer{color:Black; text-align:center; font-size:10pt; width:100%;}
+font.lin{color:Black; text-align:right; font-size:10pt;}
+font.err{color:Red; font-size:12pt;}
